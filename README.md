@@ -1,6 +1,6 @@
 # Cpanel Java Client (Under Development)
 A java client library for cpanel api.
-## Currently Implemented Features:
+## Currently Implemented Features (only v2 api):
 1. Basic Authentication Only.
 2. Subdomain
   a. Get all subdomain.
